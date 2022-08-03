@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3osv579qveelwppv?svg=true)](https://ci.appveyor.com/project/Nightfox87/gradle1-2-d64sj)
